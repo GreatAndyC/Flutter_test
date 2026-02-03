@@ -1,16 +1,14 @@
 # flutter_hello_world
 
-A new Flutter project.
+一个新的 Flutter 项目。
 
-## Getting Started
+## 入门指南
 
-This project is a starting point for a Flutter application.
+本项目是 Flutter 应用程序的起点。
 
-A few resources to get you started if this is your first Flutter project:
+如果这是您的第一个 Flutter 项目，以下资源可能会对您有所帮助：
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [实验室：编写您的第一个 Flutter 应用](https://docs.flutter.dev/get-started/codelab)
+- [食谱：有用的 Flutter 示例](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+如需获得 Flutter 开发方面的帮助，请查看[在线文档](https://docs.flutter.dev/)，其中提供了教程、示例、移动开发指南以及完整的 API 参考。
